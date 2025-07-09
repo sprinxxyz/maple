@@ -24,32 +24,32 @@ export default function incentivePage() {
             token2Logo={wstt.src}
             pair="SPX/WSTT"
             ammType="Constant Product vAMM"
-            incentive="$0.18"
-            apr="25.33%"
+            incentive="0.18"
+            apr="25.33"
           />
           <IncentiveCard
             token1Logo={usdc.src}
             token2Logo={wstt.src}
             pair="USDC/WSTT"
             ammType="Constant Product vAMM"
-            incentive="$0.10"
-            apr="30.14%"
+            incentive="0.10"
+            apr="30.14"
           />
           <IncentiveCard
             token1Logo={ankr.src}
             token2Logo={usdc.src}
             pair="ANKR/USDC"
             ammType="Constant Product vAMM"
-            incentive="$0.05"
-            apr="18.66%"
+            incentive="0.05"
+            apr="18.66"
           />
           <IncentiveCard
             token1Logo={wstt.src}
             token2Logo={usdt.src}
             pair="WSTT/USDT"
             ammType="Constant Product vAMM"
-            incentive="$0.09"
-            apr="29.22%"
+            incentive="0.09"
+            apr="29.22"
           />
         </div>
       </section>
