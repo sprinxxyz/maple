@@ -1,10 +1,11 @@
 # Sprinx Maple
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eaa82cc8-22ca-4669-9bd8-8cfdb4007218/deploy-status)](https://app.netlify.com/projects/sprinx/deploys)
 🍁 Maple makes Sprinx more beautiful.
 
 ## Deploy
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example).
+Deploy the example using [Netlify](https://netlify.com).
 
 If you want to deploy on Netlify, use the following build command under site settings:
 
