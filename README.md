@@ -1,6 +1,7 @@
 # Sprinx Maple
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/eaa82cc8-22ca-4669-9bd8-8cfdb4007218/deploy-status)](https://app.netlify.com/projects/sprinx/deploys)
+
 🍁 Maple makes Sprinx more beautiful.
 
 ## Deploy
