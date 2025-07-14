@@ -13,17 +13,26 @@ export default function Header() {
           </div>
 
           <ul className="flex sm:flex-1 items-center justify-end gap-4">
+            <li>
+              <Link
+                href="https://docs.sprinx.xyz/"
+                className="relative z-0 rounded-full py-2 px-3 text-gray-900 text-sm sm:text-lg sm:py-2 sm:px-4 text-lg btn-sm bg-gradient-to-t from-gray-100 to-gray-100 bg-[length:100%_100%] bg-[bottom]"
+                target="_blank"
+              >
+                Docs
+              </Link>
+            </li>
             <li className="relative">
               {/* Badge "Coming Soon" */}
               <span className="absolute -top-2 -right-2 z-10 text-[10px] px-2 py-[2px] bg-white text-gray-800 rounded-full shadow-md">
                 wen..🤔?
               </span>
 
-              {/* Tombol Launch App */}
+              {/* Launch App */}
               <Link
                 href="#"
                 target="_blank"
-                className="relative z-0 rounded-full py-2 px-3 text-sm sm:text-lg sm:py-2 sm:px-4 text-lg btn-sm bg-gradient-to-t from-orange-600 to-orange-500 bg-[length:100%_100%] bg-[bottom] text-white shadow-[inset_0px_1px_0px_0px_theme(colors.white/.16)] hover:bg-[length:100%_150%]"
+                className="relative z-0 rounded-full py-2 px-3 text-sm sm:text-lg sm:py-2 sm:px-4 text-lg btn-sm bg-gradient-to-t from-orange-600 to-orange-400 bg-[length:100%_100%] bg-[bottom] text-white shadow-[inset_0px_1px_0px_0px_theme(colors.white/.16)] hover:bg-[length:100%_150%]"
               >
                 Launch App
               </Link>
